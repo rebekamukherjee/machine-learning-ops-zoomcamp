@@ -33,6 +33,8 @@ The deployed model needs to be monitored for performance.  A performance drop co
 
 ## MLOps Maturity Model
 
+> Not every project needs to have the highest maturity level possible as it could exceed the project's budget.
+
 **Level 0: No MLOps**
 - All code in (sloppy) Jupyter notebooks
 - No pipelines
@@ -61,5 +63,3 @@ The deployed model needs to be monitored for performance.  A performance drop co
 
 **Level 4: Full MLOps automation**
 - Automated training and deployment
-
-> Not every project needs to have the highest maturity level possible as it could exceed the project's budget.
