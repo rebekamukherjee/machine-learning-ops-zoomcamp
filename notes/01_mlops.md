@@ -13,7 +13,7 @@ Machine Learning projects have 3 different stages (and MLOps helps in all 3 stag
 Jupyter Notebooks are mainly used for experimentation and often best practices are not followed while writing code.
 
 - *When cells are re-run with different values, the previous results are lost.* Insteading of maintining a markdown cell or a spreadsheet, we can use an **experiment tracker** to track all experiment results.
-- *Cell execution order is not always apparent by looking at the code.* In the example [notebook](../code/1_notebook/duration-prediction.ipynb), we run the same cell to save the trained model but it is not clear which model was ultimately saved. We can use a **model registry** to track models that were built during the experiments.
+- *Cell execution order is not always apparent by looking at the code.* In the example [notebook](../code/1_intro/duration-prediction.ipynb), we run the same cell to save the trained model but it is not clear which model was ultimately saved. We can use a **model registry** to track models that were built during the experiments.
 
 ### Orchestration & ML Pipelines
 

@@ -2,7 +2,7 @@
 
 **Homework submission link**: https://courses.datatalks.club/mlops-zoomcamp-2024/homework/hw1
 
-**Deadline**: 20 May 2024
+**Deadline**: 23 May 2024
 
 ## Machine Learning
 

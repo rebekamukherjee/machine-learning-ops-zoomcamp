@@ -26,7 +26,7 @@
 ### Module 2: Experiment tracking & model management
 
 - **MLFlow**
-[[code](code/2_mlflow/)
+[[code](code/2_mlflow/),
 [notes](notes/02_mlflow.md)]
     - Introduction to Experiment Tracking
     [[video](https://youtu.be/MiA7LQin9c8)]
