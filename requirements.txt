@@ -1,7 +1,11 @@
 black[jupyter]
+hyperopt
 matplotlib
+mlflow
 numpy
 pandas
 pyarrow
 seaborn
 scikit-learn
+setuptools
+xgboost
